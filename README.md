@@ -22,35 +22,21 @@ struct CricketTeam {
 ```
 
 ## 🔄 Data Flow
-Input: Reads structured player data from input.txt.
-
-Processing: Stores data in an internal memory array of CricketTeam structures.
-
-Analysis: Provides 9 analytical functions accessed via a menu-driven interface (Options A-I).
-
-Output: Displays results in the console and exports filtered player lists to Player_info.txt.
-
-## 🌟 Key Features
-Player Search: Quickly find player details by name.
-
-Statistical Analysis: * Identify the Top Scorer.
-
-Find the most experienced player (Matches played).
-
-Filter players by type (e.g., All-rounders).
-
-MVP Calculation: Features a custom weighted formula to determine the Most Valuable Player.
-
-Data Export: Save processed results directly to a text file for external use.
-
-## 🚀 How to Use
-Ensure your player data is formatted correctly in input.txt.
-
-Compile the source code:
-
-
-## Data Flow
 * **Input:** Reads structured player data from input.txt.
 * **Processing:** Stores data in an internal memory array of CricketTeam structures.
 * **Analysis:** Provides 9 analytical functions accessed via a menu-driven interface (Options A-I).
 * **Output:** Displays results in the console and exports filtered player lists to Player_info.txt.
+
+## 🌟 Key Features
+* **Player Search:** Quickly find player details by name.
+* **Statistical Analysis:**
+    * Identify the Top Scorer.
+    * Find the most experienced player (Matches played).
+    * Filter players by type (e.g., All-rounders).
+* **MVP Calculation:** Features a custom weighted formula to determine the Most Valuable Player.
+* **Data Export:** Save processed results directly to a text file for external use.
+
+## 🚀 How to Use
+* Ensure your player data is formatted correctly in `input.txt`.
+* Compile the source code.
+
