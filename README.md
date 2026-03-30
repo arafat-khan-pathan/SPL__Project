@@ -19,9 +19,9 @@ struct CricketTeam {
     int totalrun;      // Total Runs Scored
     int hightrun;      // Highest Score
 };
+```
 
-
-🔄 Data Flow
+## 🔄 Data Flow
 Input: Reads structured player data from input.txt.
 
 Processing: Stores data in an internal memory array of CricketTeam structures.
@@ -30,7 +30,7 @@ Analysis: Provides 9 analytical functions accessed via a menu-driven interface (
 
 Output: Displays results in the console and exports filtered player lists to Player_info.txt.
 
-🌟 Key Features
+## 🌟 Key Features
 Player Search: Quickly find player details by name.
 
 Statistical Analysis: * Identify the Top Scorer.
@@ -43,7 +43,7 @@ MVP Calculation: Features a custom weighted formula to determine the Most Valuab
 
 Data Export: Save processed results directly to a text file for external use.
 
-🚀 How to Use
+## 🚀 How to Use
 Ensure your player data is formatted correctly in input.txt.
 
 Compile the source code:
