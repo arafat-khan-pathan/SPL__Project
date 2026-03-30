@@ -47,3 +47,10 @@ Data Export: Save processed results directly to a text file for external use.
 Ensure your player data is formatted correctly in input.txt.
 
 Compile the source code:
+
+
+## Data Flow
+* **Input:** Reads structured player data from input.txt.
+* **Processing:** Stores data in an internal memory array of CricketTeam structures.
+* **Analysis:** Provides 9 analytical functions accessed via a menu-driven interface (Options A-I).
+* **Output:** Displays results in the console and exports filtered player lists to Player_info.txt.
