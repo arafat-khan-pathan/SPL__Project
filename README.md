@@ -30,7 +30,7 @@ struct CricketTeam {
 ## 🌟 Key Features
 * **Player Search:** Quickly find player details by name.
 * **Statistical Analysis:**
- * Identify the Top Scorer.
+    * Identify the Top Scorer.
     * Find the most experienced player (Matches played).
     * Filter players by type (e.g., All-rounders).
 * **MVP Calculation:** Features a custom weighted formula to determine the Most Valuable Player.
